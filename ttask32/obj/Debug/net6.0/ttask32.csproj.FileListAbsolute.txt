@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\HW1\ttask32\obj\Debug\net6.0\ttask32.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HW1\ttask32\obj\Debug\net6.0\ttask32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HW1\ttask32\obj\Debug\net6.0\ttask32.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HW1\ttask32\obj\Debug\net6.0\ttask32.AssemblyInfo.cs
+C:\Users\user\Desktop\HW1\ttask32\obj\Debug\net6.0\ttask32.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HW1\ttask32\bin\Debug\net6.0\ttask32.exe
+C:\Users\user\Desktop\HW1\ttask32\bin\Debug\net6.0\ttask32.deps.json
+C:\Users\user\Desktop\HW1\ttask32\bin\Debug\net6.0\ttask32.runtimeconfig.json
+C:\Users\user\Desktop\HW1\ttask32\bin\Debug\net6.0\ttask32.dll
+C:\Users\user\Desktop\HW1\ttask32\bin\Debug\net6.0\ttask32.pdb
+C:\Users\user\Desktop\HW1\ttask32\obj\Debug\net6.0\ttask32.dll
+C:\Users\user\Desktop\HW1\ttask32\obj\Debug\net6.0\refint\ttask32.dll
+C:\Users\user\Desktop\HW1\ttask32\obj\Debug\net6.0\ttask32.pdb
+C:\Users\user\Desktop\HW1\ttask32\obj\Debug\net6.0\ttask32.genruntimeconfig.cache
+C:\Users\user\Desktop\HW1\ttask32\obj\Debug\net6.0\ref\ttask32.dll
