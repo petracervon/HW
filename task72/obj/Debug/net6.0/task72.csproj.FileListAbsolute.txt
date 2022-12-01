@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\HW1\task72\obj\Debug\net6.0\task72.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HW1\task72\obj\Debug\net6.0\task72.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HW1\task72\obj\Debug\net6.0\task72.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HW1\task72\obj\Debug\net6.0\task72.AssemblyInfo.cs
+C:\Users\user\Desktop\HW1\task72\obj\Debug\net6.0\task72.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HW1\task72\bin\Debug\net6.0\task72.exe
+C:\Users\user\Desktop\HW1\task72\bin\Debug\net6.0\task72.deps.json
+C:\Users\user\Desktop\HW1\task72\bin\Debug\net6.0\task72.runtimeconfig.json
+C:\Users\user\Desktop\HW1\task72\bin\Debug\net6.0\task72.dll
+C:\Users\user\Desktop\HW1\task72\bin\Debug\net6.0\task72.pdb
+C:\Users\user\Desktop\HW1\task72\obj\Debug\net6.0\task72.dll
+C:\Users\user\Desktop\HW1\task72\obj\Debug\net6.0\refint\task72.dll
+C:\Users\user\Desktop\HW1\task72\obj\Debug\net6.0\task72.pdb
+C:\Users\user\Desktop\HW1\task72\obj\Debug\net6.0\task72.genruntimeconfig.cache
+C:\Users\user\Desktop\HW1\task72\obj\Debug\net6.0\ref\task72.dll
